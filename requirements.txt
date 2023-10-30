@@ -1,0 +1,11 @@
+bcrypt
+entrypoints
+fastapi
+passlib
+pydantic
+python-jose
+python-multipart
+requests
+SQLAlchemy
+typing_extensions
+uvicorn
