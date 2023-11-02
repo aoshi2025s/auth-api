@@ -3,6 +3,7 @@
 ユーザ名とパスワードでアカウントを認証できるapiを作りました
 heroku,dataspace,renderにデプロイしました。
 urlの最後に"/docs"とつけるとこのapiのswaggerUIが見れます。
+デフォルトのurlにアクセスすると、{"message":"hello"}を返します。
 
 # heroku
 
