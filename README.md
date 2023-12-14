@@ -9,8 +9,8 @@ urlの最後に"/docs"とつけるとこのapiのswaggerUIが見れます。
 
 https://track-heroku-app-0025927817d9.herokuapp.com/
 
-# dataspace
-urlにアクセスするには、data spaceへのログインが必要になります。
+# detaspace
+urlにアクセスするには、deta spaceへのログインが必要になります。
 デプロイは一番簡単だったのですが、アクセスにログインの必要がない他のデプロイサービスを探しました。
 
 https://authapi-1-w4762713.deta.app/docs#/
